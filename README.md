@@ -64,6 +64,12 @@ I am interested in AI, workflow automations, GenAI, AI agents, software developm
 </p>
 
 ---
+## Coding Activity
+<p align="left">
+  <a href="https://codolio.com/profile/YOUR_USERNAME">
+    <img src="https://codolio.com/api/profile/card/pavithra28" alt="Codolio Heatmap" />
+  </a>
+</p>
 
 ###  Connect with me:
 
