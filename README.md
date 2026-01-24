@@ -9,7 +9,7 @@ I am interested in AI, workflow automations, GenAI, AI agents, software developm
 
 ---
 
-### Stuff I can work with
+### Stuff I can work with:
 
 <p align="left">
   <a href="https://skillicons.dev">
