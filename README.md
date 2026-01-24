@@ -72,4 +72,5 @@ I am interested in AI, workflow automations, GenAI, AI agents, software developm
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
 *"you can always do stuff"*
