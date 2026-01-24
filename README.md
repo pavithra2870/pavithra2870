@@ -9,13 +9,15 @@ I am interested in AI, workflow automations, GenAI, AI agents, software developm
 
 ---
 
-### Tech Stack & Skills
+### Stuff I can work with
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mongodb,aws,pytorch,linux,git,n8n" />
+    <img src="https://skillicons.dev/icons?i=python,js,cpp,java,r,react,nodejs,mongodb,express,aws,gcp,linux,git,docker,sklearn,pandas,numpy,firebase,supabase,vercel,render,postman" />
   </a>
 </p>
+
+### Tech Stack & Skills
 
 * **Languages:** Python, Java, C++, R, JavaScript 
 * **AI/ML:** Natural Language Processing (NLP), Computer Vision (OCR), Explainable AI (XAI), GenAI, AI Agents, Google ADK, scikit-learn, LangChain
