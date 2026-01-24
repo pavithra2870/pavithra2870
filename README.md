@@ -61,16 +61,11 @@ I am interested in AI, workflow automations, GenAI, AI agents, software developm
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pavithra2870&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Pavithra's Stats" />
+ <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavithra2870&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
-## Coding Activity
-<p align="left">
-  <a href="https://codolio.com/profile/YOUR_USERNAME">
-    <img src="https://codolio.com/api/profile/card/pavithra28" alt="Codolio Heatmap" />
-  </a>
-</p>
-
 ###  Connect with me:
 
 <p align="left">
