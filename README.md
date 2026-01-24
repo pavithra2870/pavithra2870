@@ -10,7 +10,11 @@ I am interested in AI, workflow automations, GenAI, AI agents, software developm
 ---
 
 ### Tech Stack & Skills
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
 * **Languages:** Python, Java, C++, R, JavaScript 
 * **AI/ML:** Natural Language Processing (NLP), Computer Vision (OCR), Explainable AI (XAI), GenAI, AI Agents, Google ADK, scikit-learn, LangChain
 * **Cloud & DevOps:** AWS (Lex, Lambda, DynamoDB, Cognito, S3, Rekognition, Bedrock, SES), Serverless Framework, n8n Automation, Oracle Cloud, Linux based instances, GCP
