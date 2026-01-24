@@ -21,8 +21,8 @@ I am interested in AI, workflow automations, GenAI, AI agents, software developm
 
 ### Projects
 
-* **[CivicBot](https://github.com/pavithra2870/CivicBot)**: A serverless civic issue reporting chatbot built with **AWS Lex** and **Lambda** to streamline community feedback. Simple Whatsapp Interface with **Twilio** and a RBAC Admin Dashboard.
-* **[FocusWin](https://focuswin-frontend.onrender.com/)**: A productivity-focused To-Do application designed for high-performance task management and a team collaboration spin-off with Kanban boards, dynamic task grouping and lot more features to organise your day.
+* **[CivicBot](https://github.com/pavithra2870/CivicBot)**: a serverless civic issue reporting chatbot built with **AWS Lex** and **Lambda** to streamline community feedback. Simple Whatsapp Interface with **Twilio** and a RBAC Admin Dashboard.
+* **[FocusWin](https://focuswin-frontend.onrender.com/)**: a productivity-focused To-Do application designed for high-performance task management and a team collaboration spin-off with Kanban boards, dynamic task grouping and lot more features to organise your day.
 * **[OneStop.25](https://onestop-25.onrender.com/)**: reflection engine for year 2025-26: in/out lists, bucket list, manifestos, bucket list with friends, aura calculator - yet another brainrot inspired app but made it more aesthetic and organised - so I can visualise and track my 2026 goals finally
 
 ### Projects I am working on rn
