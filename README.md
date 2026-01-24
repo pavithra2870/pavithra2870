@@ -70,8 +70,7 @@ I am interested in AI, workflow automations, GenAI, AI agents, software developm
 ###  Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/your-profile" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your-email@example.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/pavithra-k-r-9b2a84314/)" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-*"Always learning, always building."*
+*"you can always do stuff"*
