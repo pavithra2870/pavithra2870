@@ -13,7 +13,7 @@ I am interested in AI, workflow automations, GenAI, AI agents, software developm
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,cpp,java,r,react,nodejs,mongodb,express,aws,gcp,linux,git,docker,sklearn,firebase,supabase,vercel,postman" />
+    <img src="https://skillicons.dev/icons?i=python,html,css,js,cpp,java,r,react,nodejs,mongodb,express,aws,gcp,linux,git,docker,sklearn,firebase,supabase,vercel,postman" />
   </a>
 </p>
 
