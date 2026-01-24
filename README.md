@@ -61,8 +61,6 @@ I am interested in AI, workflow automations, GenAI, AI agents, software developm
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pavithra2870&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Pavithra's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavithra2870&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -70,7 +68,11 @@ I am interested in AI, workflow automations, GenAI, AI agents, software developm
 ###  Connect with me:
 
 <p align="left">
-<a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/pavithra-k-r-9b2a84314/)" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pavithra-k-r-9b2a84314/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="28" />
+  </a>
 </p>
-
 *"you can always do stuff"*
