@@ -46,7 +46,7 @@ I am interested in AI, workflow automations, GenAI, AI agents, software developm
 - GenAI & XAI: i build llm-powered self-reflection tools because the model said so is not an explanation.
 - WebDev (MERN): i build full-stack apps.
 - Cloud & Serverless: strong believer in other people’s computers — lambdas should live fast and die cheap.
-- Data Science & ML: i love data - it spills tea (herbal)
+- Data Science & ML: i love data and pipelines
 
 ### Education & Certifications
 
