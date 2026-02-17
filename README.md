@@ -59,12 +59,14 @@ I am interested in AI, workflow automations, GenAI, AI agents, software developm
 
 ### GitHub Stats
 
+[My Github Skill Sync](https://app.skillsync.wiki)
+<!---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pavithra2870&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Pavithra's Stats" />
  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavithra2870&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
+--->
 ---
 ###  Connect with me:
 
