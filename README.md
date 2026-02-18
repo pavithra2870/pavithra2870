@@ -60,13 +60,13 @@ I am interested in AI, workflow automations, GenAI, AI agents, software developm
 ### GitHub Stats
 
 [My Github Skill Sync](https://app.skillsync.wiki/profile/pavithra2870)
-<!---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavithra2870&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Pavithra's Stats" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=pavithra2870&show_icons=true&theme=radical&include_all_commits=true&count_private=true](https://camo.githubusercontent.com/16696d1ac6c00082e6d2f339c2153fcb30c161db4e865de4544f8747c29efb63/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d416b736861792d52616d6573682d56495443267468656d653d6461726b26686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374)" alt="Pavithra's Stats" />
  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavithra2870&layout=compact&theme=radical" alt="Top Languages" />
 </p>
---->
+
 ---
 ###  Connect with me:
 
