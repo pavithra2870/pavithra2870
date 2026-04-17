@@ -1,4 +1,4 @@
-# hello there. Pavithra here
+# hello there.
 ### Engineering Student | Looking for internships in SWE, AI and Data 
 
 I am a 3rd-year engineering student passionate about building scalable AI-driven solutions and serverless architectures. 
