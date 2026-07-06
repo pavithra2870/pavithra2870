@@ -10,7 +10,7 @@ It is not just coding, training a model or engineering. It is the "building the 
 
 Currently:
 -  AI Marketing Skill Building Apprentice @ **Flyrank AI**
--  Product Management & GTM Intern @ **Morph Systems** (check our beta launch @ [Poppyfield](https://poppyfield.ai/)
+-  Product Management & GTM Intern @ **Morph Systems** [check our beta launch @ [Poppyfield](https://poppyfield.ai/)]
 -  Selected for **Amazon ML Summer School 2026**
 
 ---
