@@ -2,13 +2,15 @@
 ## AI Engineer | Product Builder | GTM & Automations
 ### Final-year Engineering Student (AI/ML) @ VIT Chennai | Open to SWE, AI Engineering & PM internships
 
-I'm a final-year CS (AI/ML) student who ships full products, not notebooks — RAG pipelines, safety-critical LLM systems, multi-agent research tools, and the occasional Gen Z aura calculator. If it involves an LLM doing something useful under the hood, I've probably built it.
+I'm a final-year CS (AI/ML) student who ships full products, not notebooks - RAG pipelines, safety-critical LLM systems, multi-agent research tools, Agentic AI systems.
 
-I'm currently looking for **Software Engineering, AI Engineering, and Product roles** where I can turn "the model said so" into something explainable, shippable, and actually used.
+I'm currently looking for **Software Engineering, AI/ML Engineering, and Product roles** where I can work in the intersection of business, product and technology.
+
+It is not just coding, training a model or engineering. It is the "building the whole product" that excites me. 
 
 Currently:
 -  AI Marketing Skill Building Apprentice @ **Flyrank AI**
--  Product Management & GTM Intern @ **Morph Systems**
+-  Product Management & GTM Intern @ **Morph Systems** (check our beta launch @ [Poppyfield](https://poppyfield.ai/)
 -  Selected for **Amazon ML Summer School 2026**
 
 ---
