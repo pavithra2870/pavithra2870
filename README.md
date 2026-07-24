@@ -2,16 +2,14 @@
 ## AI Engineer | Product Builder | GTM & Automations
 ### Final-year Engineering Student (AI/ML) @ VIT Chennai | Open to SWE, AI Engineering & PM internships
 
-I'm a final-year CS (AI/ML) student who ships full products, not notebooks - RAG pipelines, safety-critical LLM systems, multi-agent research tools, Agentic AI systems.
+I'm a final-year CS (AI/ML) student who ships full products, not notebooks — RAG pipelines, safety-critical LLM systems, multi-agent research tools, and the occasional Gen Z aura calculator. If it involves an LLM doing something useful under the hood, I've probably built it.
 
-I'm currently looking for **Software Engineering, AI/ML Engineering, and Product roles** where I can work in the intersection of business, product and technology.
-
-It is not just coding, training a model or engineering. It is the "building the whole product" that excites me. 
+I'm currently looking for **Software Engineering, AI Engineering, and Product roles** where I can turn "the model said so" into something explainable, shippable, and actually used.
 
 Currently:
--  AI Marketing Skill Building Apprentice @ **Flyrank AI**
--  Product Management & GTM Intern @ **Morph Systems** [check our beta launch @ [Poppyfield](https://poppyfield.ai/)]
--  Selected for **Amazon ML Summer School 2026**
+- 🎯 AI Marketing Skill Building Apprentice @ **Flyrank AI**
+- 🚀 Product Management & GTM Intern @ **Morph Systems**
+- 🧠 Selected for **Amazon ML Summer School 2026**
 
 ---
 
@@ -19,7 +17,7 @@ Currently:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,js,cpp,java,r,react,tailwind,nodejs,mongodb,express,aws,gcp,linux,git,docker,sklearn,firebase,supabase,vercel,postman,django,postgres,redis,vite,dynamodb,elasticsearch,fastapi,flask,mysql,nginx,pytorch,replit,rocket,sqlite,selenium,tensorflow,vscode,windows" />
+    <img src="https://skillicons.dev/icons?i=python,html,css,js,cpp,java,r,react,tailwind,nodejs,mongodb,express,aws,gcp,linux,git,docker,sklearn,firebase,supabase,vercel,postman,django,postgres,redis,vite,dynamodb,elasticsearch,fastapi,flask,mysql,nginx,pytorch,replit,rocket,sqlite,selenium,tensorflow,vscode,windows,prometheus,grafana" />
   </a>
 </p>
 
@@ -31,8 +29,8 @@ Currently:
 * **ML / Deep Learning:** PyTorch, scikit-learn, XGBoost, LSTM + Attention, spaCy, FLAIR, DeBERTa, Gensim
 * **Explainable AI:** SHAP, counterfactual XAI, bias/fairness auditing
 * **Voice & Speech:** AssemblyAI
-* **Web Development:** React, Node.js, Express, FastAPI, Vite, Tailwind CSS, Framer Motion
-* **Databases:** MongoDB, Firebase Firestore, DynamoDB, FAISS, SQLite, Redis
+* **Web Development:** React, Node.js, Express, FastAPI, Vite, Tailwind CSS, Framer Motion, Leaflet.js
+* **Databases:** MongoDB, Firebase Firestore, DynamoDB, FAISS, SQLite, Redis, PostgreSQL (Supabase)
 * **Cloud & DevOps:** AWS (Lambda, API Gateway, Cognito, DynamoDB, Bedrock, S3, CloudWatch), Firebase, Docker, Hugging Face Spaces, Render, Vercel
 * **Testing & Tools:** Git, Selenium, pytest, Postman
 
@@ -40,6 +38,8 @@ Currently:
 
 ### Projects
 
+* **[AirMind AI](https://github.com/pavithra2870/AirMind-AI)**: urban air intelligence operating system — transforms cities from reactive monitoring to proactive intervention with XGBoost forecasting, pollution attribution, intervention planning, and dual AI copilots for citizens and commissioners. Graceful degradation ensures it never breaks during demos.
+* **[PulseOps](https://github.com/pavithra2870/PulseOps)**: AI-assisted cluster observability platform — complete detect → alert → incident → diagnose loop with 32 REST endpoints, WebSocket real-time updates, Prometheus metrics, and RAG-grounded AI diagnosis. Zero-credential fallbacks for immediate demo capability.
 * **[NEXUS — Consultancy AI](https://github.com/pavithra2870/Consultancy-AI)**: a local-first AI market-intelligence platform — **8 research agents + 4 enterprise modules** (market research, M&A due diligence, live risk monitoring) fusing classical NLP, deep learning, and a local LLM. Zero cloud dependency, zero data leaving the machine.
 * **[NurtureAI](https://github.com/pavithra2870/NurtureAI)**: a bilingual AI parenting assistant where safety doesn't trust the LLM — a deterministic rule engine can bypass or override the model entirely on emergency queries. RAG-grounded advice, voice input, English + Arabic.
 * **[ComplianceAI](https://github.com/pavithra2870/Call-Center-Compliance)**: call-center compliance monitoring that actually understands Tanglish and Hinglish. Every AI decision comes with a receipt — a direct transcript quote, not just a score.
@@ -75,7 +75,7 @@ Currently:
 * **Machine Learning Specialization** — DeepLearning.AI & Stanford University (Coursera)
 * **MERN Full Stack Certification** — Ethnus & CDC, VIT University | GeeksForGeeks
 * **Ericsson Edge Academia '25**
-* **McKinsey Forward Learners Program '25**
+* **McKinsey Forward Learners Program**
 * **Relevant Coursework:** DSA, OOPs, OS, CN, DAA, Software Engineering, DBMS, Cloud Architecture, Machine Learning, Deep Learning, Explainable AI, NLP, Compiler Design
 
 ---
