@@ -7,7 +7,6 @@ I'm a final-year CS (AI/ML) student who ships full products, not notebooks — R
 I'm currently looking for **Software Engineering, AI Engineering, and Product roles** where I can turn "the model said so" into something explainable, shippable, and actually used.
 
 Currently:
-- 🎯 AI Marketing Skill Building Apprentice @ **Flyrank AI**
 - 🚀 Product Management & GTM Intern @ **Morph Systems**
 - 🧠 Selected for **Amazon ML Summer School 2026**
 
