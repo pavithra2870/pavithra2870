@@ -92,6 +92,11 @@ Currently:
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=pavithra2870&theme=dark" alt="Activity" />
 </p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=pavithra2870&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+
 ---
 ###  Connect with me:
 
