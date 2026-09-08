@@ -2,16 +2,6 @@
 ## AI Engineer | Product Builder | GTM & Automations
 ### Final-year Engineering Student (AI/ML) @ VIT Chennai | Open to SWE, AI Engineering & PM internships
 
-I'm a final-year CS (AI/ML) student who ships full products, not notebooks — RAG pipelines, safety-critical LLM systems, multi-agent research tools, and the occasional Gen Z aura calculator. If it involves an LLM doing something useful under the hood, I've probably built it.
-
-I'm currently looking for **Software Engineering, AI Engineering, and Product roles** where I can turn "the model said so" into something explainable, shippable, and actually used.
-
-Currently:
-- 🚀 Product Management & GTM Intern @ **Morph Systems**
-- 🧠 Selected for **Amazon ML Summer School 2026**
-
----
-
 ### Stuff I can work with:
 
 <p align="left">
@@ -32,8 +22,6 @@ Currently:
 * **Databases:** MongoDB, Firebase Firestore, DynamoDB, FAISS, SQLite, Redis, PostgreSQL (Supabase)
 * **Cloud & DevOps:** AWS (Lambda, API Gateway, Cognito, DynamoDB, Bedrock, S3, CloudWatch), Firebase, Docker, Hugging Face Spaces, Render, Vercel
 * **Testing & Tools:** Git, Selenium, pytest, Postman
-
----
 
 ### Projects
 
@@ -57,8 +45,6 @@ Currently:
 * **HELM-Rank** — an exam-grading pipeline combining OCR, knowledge-grounded RAG, Elo ranking, and RLHF so teachers can actually align the grader instead of trusting it blindly.
 * **GEO: Algorithmic Moat** — quantifying whether LLMs systematically favor incumbent brands over startups, using SHAP and counterfactual XAI to prove it mathematically.
 
----
-
 ### What excites me
 
 - AI Agents & Automation: if I do a task twice, I automate it — efficiency is just laziness with planning.
@@ -76,8 +62,6 @@ Currently:
 * **Ericsson Edge Academia '25**
 * **McKinsey Forward Learners Program**
 * **Relevant Coursework:** DSA, OOPs, OS, CN, DAA, Software Engineering, DBMS, Cloud Architecture, Machine Learning, Deep Learning, Explainable AI, NLP, Compiler Design
-
----
 
 ### GitHub Stats
 
