@@ -37,13 +37,12 @@
 * **[OneStop 25](https://onestop-25.onrender.com/)**: year-end reflection app for 2025→2026 — aura calculator, IN/OUT lists, AI-personalized manifestations. Brainrot-coded on purpose, so I can actually track my 2026 goals without opening a spreadsheet.
 * **[SafeSpace](https://github.com/pavithra2870/SafeSpace---Journal)**: AI journaling with an actual feedback loop — Dr. Luna (Groq/Llama 3) reads every entry and returns sentiment, mood, and a nudge. Streaks, heatmaps, gamification, the whole loop.
 * **[CivicBot](https://github.com/pavithra2870/CivicBot)**: report a pothole over WhatsApp, get it triaged by an LLM before a human even looks at it. 100% serverless AWS, because I don't do idle servers.
+* **[GEO: Algorithmic Moat](https://pavithra2870.github.io/GEO-Bias-Analyzer/)**: quantifying whether LLMs systematically favor incumbent brands over startups, using SHAP and counterfactual XAI to prove it mathematically.
+  
+### Research
 
-### Currently exploring (research, no public repos yet)
-
-* **FibFormer** — fusing hand-crafted Fibonacci trading heuristics into a differentiable Temporal Fusion Transformer for BankNifty/Nifty forecasting, validated with the Deflated Sharpe Ratio. (paper under IEEE review)
 * **Adv-Audit** — neuro-symbolic explainable AI for real-time ad bidding: SHAP attribution, bias detection, and human-in-the-loop rule correction.
 * **HELM-Rank** — an exam-grading pipeline combining OCR, knowledge-grounded RAG, Elo ranking, and RLHF so teachers can actually align the grader instead of trusting it blindly.
-* **GEO: Algorithmic Moat** — quantifying whether LLMs systematically favor incumbent brands over startups, using SHAP and counterfactual XAI to prove it mathematically.
 
 ### What excites me
 
