@@ -25,24 +25,22 @@
 
 ### Projects
 
-* **[AirMind AI](https://github.com/pavithra2870/AirMind-AI)**: urban air intelligence operating system — transforms cities from reactive monitoring to proactive intervention with XGBoost forecasting, pollution attribution, intervention planning, and dual AI copilots for citizens and commissioners. Graceful degradation ensures it never breaks during demos.
-* **[PulseOps](https://github.com/pavithra2870/PulseOps)**: AI-assisted cluster observability platform — complete detect → alert → incident → diagnose loop with 32 REST endpoints, WebSocket real-time updates, Prometheus metrics, and RAG-grounded AI diagnosis. Zero-credential fallbacks for immediate demo capability.
 * **[NEXUS — Consultancy AI](https://github.com/pavithra2870/Consultancy-AI)**: a local-first AI market-intelligence platform — **8 research agents + 4 enterprise modules** (market research, M&A due diligence, live risk monitoring) fusing classical NLP, deep learning, and a local LLM. Zero cloud dependency, zero data leaving the machine.
-* **[NurtureAI](https://github.com/pavithra2870/NurtureAI)**: a bilingual AI parenting assistant where safety doesn't trust the LLM — a deterministic rule engine can bypass or override the model entirely on emergency queries. RAG-grounded advice, voice input, English + Arabic.
 * **[ComplianceAI](https://github.com/pavithra2870/Call-Center-Compliance)**: call-center compliance monitoring that actually understands Tanglish and Hinglish. Every AI decision comes with a receipt — a direct transcript quote, not just a score.
-* **[Product Intelligence Engine (Mercado)](https://market-research-agent-f5ny.onrender.com/)**: 4 microservices, 4 parallel Gemini agents, and a financial risk model that turns Reddit complaints into a boardroom-ready PDF — all on free-tier infra because I refuse to pay for compute I don't need yet.
+* **[GEO: Algorithmic Moat](https://pavithra2870.github.io/GEO-Bias-Analyzer/)**: quantifying whether LLMs systematically favor incumbent brands over startups, using SHAP and counterfactual XAI to prove it mathematically.
+* **[Fact Knowledge Layer](https://github.com/pavithra2870/Fact-Knowledge-Layer)**: evidence-first document intelligence that extracts structured facts from PDFs with verifiable citations, then uses hybrid FAISS + BM25 retrieval, cross-encoder reranking, and contextual reasoning to distinguish genuine contradictions from differences caused by time period, geography, units, or estimates. Built with React + FastAPI, multi-provider LLM routing, OCR, and an interactive D3 knowledge graph.
+* **[CivicBot](https://github.com/pavithra2870/CivicBot)**: report a pothole over WhatsApp, get it triaged by an LLM before a human even looks at it. 100% serverless AWS.
+* **[NurtureAI](https://github.com/pavithra2870/NurtureAI)**: a bilingual AI parenting assistant where safety doesn't trust the LLM — a deterministic rule engine can bypass or override the model entirely on emergency queries. RAG-grounded advice, voice input, English + Arabic.
+* **[OneStop 25](https://onestop-25.onrender.com/)**: year-end reflection app for 2025→2026 — aura calculator, IN/OUT lists, AI-personalized manifestations. Brainrot-coded on purpose, so I can actually track my 2026 goals without opening a spreadsheet.
+* **[Adv-Audit](https://github.com/pavithra2870/Adv-Audit)** — neuro-symbolic explainable AI for real-time ad bidding: SHAP attribution, bias detection, and human-in-the-loop rule correction.
+* **[AirMind AI](https://github.com/pavithra2870/AirMind-AI)**: urban air intelligence operating system — transforms cities from reactive monitoring to proactive intervention with XGBoost forecasting, pollution attribution, intervention planning, and dual AI copilots for citizens and commissioners. Graceful degradation ensures it never breaks during demos.
+* **[Product Intelligence Engine](https://market-research-agent-f5ny.onrender.com/)**: 4 microservices, 4 parallel Gemini agents, and a financial risk model that turns Reddit complaints into a boardroom-ready PDF — all on free-tier infra because I refuse to pay for compute I don't need yet.
 * **[Consumer Intelligence Platform](https://github.com/pavithra2870/Consumer-Segmentation)**: segmentation, churn/LTV prediction, SHAP explainability, and bias auditing in one pipeline — with an LLM writing the customer personas so nobody has to stare at cluster IDs.
 * **[Network QoE Prediction System](https://github.com/pavithra2870/QoE)**: predicts telecom churn before the customer even complains. LSTM + XGBoost dual-model, SHAP tells you exactly which KPI is to blame.
 * **[FocusWin](https://focuswin-frontend.onrender.com/)**: a to-do app that got out of hand — 10-level priority scale, honest analytics (no vanity heatmaps), and a real-time team Kanban spin-off called Spaces.
-* **[OneStop 25](https://onestop-25.onrender.com/)**: year-end reflection app for 2025→2026 — aura calculator, IN/OUT lists, AI-personalized manifestations. Brainrot-coded on purpose, so I can actually track my 2026 goals without opening a spreadsheet.
 * **[SafeSpace](https://github.com/pavithra2870/SafeSpace---Journal)**: AI journaling with an actual feedback loop — Dr. Luna (Groq/Llama 3) reads every entry and returns sentiment, mood, and a nudge. Streaks, heatmaps, gamification, the whole loop.
-* **[CivicBot](https://github.com/pavithra2870/CivicBot)**: report a pothole over WhatsApp, get it triaged by an LLM before a human even looks at it. 100% serverless AWS, because I don't do idle servers.
-* **[GEO: Algorithmic Moat](https://pavithra2870.github.io/GEO-Bias-Analyzer/)**: quantifying whether LLMs systematically favor incumbent brands over startups, using SHAP and counterfactual XAI to prove it mathematically.
-  
-### Research
-
-* **Adv-Audit** — neuro-symbolic explainable AI for real-time ad bidding: SHAP attribution, bias detection, and human-in-the-loop rule correction.
-* **HELM-Rank** — an exam-grading pipeline combining OCR, knowledge-grounded RAG, Elo ranking, and RLHF so teachers can actually align the grader instead of trusting it blindly.
+* **[HELM-Rank](https://github.com/pavithra2870/HELM-Rank)** — an exam-grading pipeline combining OCR, knowledge-grounded RAG, Elo ranking, and RLHF so teachers can actually align the grader instead of trusting it blindly.
+* **[PulseOps](https://github.com/pavithra2870/PulseOps)**: AI-assisted cluster observability platform — complete detect → alert → incident → diagnose loop with 32 REST endpoints, WebSocket real-time updates, Prometheus metrics, and RAG-grounded AI diagnosis. Zero-credential fallbacks for immediate demo capability.
 
 ### What excites me
 
