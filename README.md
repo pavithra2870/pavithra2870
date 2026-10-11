@@ -28,6 +28,7 @@
 * **[NEXUS — Consultancy AI](https://github.com/pavithra2870/Consultancy-AI)**: a local-first AI market-intelligence platform — **8 research agents + 4 enterprise modules** (market research, M&A due diligence, live risk monitoring) fusing classical NLP, deep learning, and a local LLM. Zero cloud dependency, zero data leaving the machine.
 * **[ComplianceAI](https://github.com/pavithra2870/Call-Center-Compliance)**: call-center compliance monitoring that actually understands Tanglish and Hinglish. Every AI decision comes with a receipt — a direct transcript quote, not just a score.
 * **[GEO: Algorithmic Moat](https://pavithra2870.github.io/GEO-Bias-Analyzer/)**: quantifying whether LLMs systematically favor incumbent brands over startups, using SHAP and counterfactual XAI to prove it mathematically.
+* **[Meridian — Risk Intelligence Platform](https://github.com/pavithra2870/VIT-Pavithra-SP-Hackathon)**: an offline-first AI risk intelligence platform that transforms 50K+ financial documents into explainable risk signals, constrained portfolio rebalancing, and multi-asset stress tests across 4 synthetic portfolios - powered by NLP, deterministic risk models, and an optional local LLM copilot.
 * **[Fact Knowledge Layer](https://github.com/pavithra2870/Fact-Knowledge-Layer)**: evidence-first document intelligence that extracts structured facts from PDFs with verifiable citations, then uses hybrid FAISS + BM25 retrieval, cross-encoder reranking, and contextual reasoning to distinguish genuine contradictions from differences caused by time period, geography, units, or estimates. Built with React + FastAPI, multi-provider LLM routing, OCR, and an interactive D3 knowledge graph.
 * **[CivicBot](https://github.com/pavithra2870/CivicBot)**: report a pothole over WhatsApp, get it triaged by an LLM before a human even looks at it. 100% serverless AWS.
 * **[NurtureAI](https://github.com/pavithra2870/NurtureAI)**: a bilingual AI parenting assistant where safety doesn't trust the LLM — a deterministic rule engine can bypass or override the model entirely on emergency queries. RAG-grounded advice, voice input, English + Arabic.
@@ -42,13 +43,15 @@
 * **[HELM-Rank](https://github.com/pavithra2870/HELM-Rank)** — an exam-grading pipeline combining OCR, knowledge-grounded RAG, Elo ranking, and RLHF so teachers can actually align the grader instead of trusting it blindly.
 * **[PulseOps](https://github.com/pavithra2870/PulseOps)**: AI-assisted cluster observability platform — complete detect → alert → incident → diagnose loop with 32 REST endpoints, WebSocket real-time updates, Prometheus metrics, and RAG-grounded AI diagnosis. Zero-credential fallbacks for immediate demo capability.
 
+**View my Product Case Studies [here](https://pavithra-portfolio-jpon.onrender.com/#case-studies)**
+
 ### What excites me
 
-- AI Agents & Automation: if I do a task twice, I automate it — efficiency is just laziness with planning.
-- GenAI & XAI: I build LLM-powered tools that explain themselves, because "the model said so" is not an explanation.
-- Safety-critical AI: the interesting part of an AI system isn't the happy path, it's what happens when the model is wrong.
-- Full-stack product thinking: an AI pipeline nobody can use is just a very expensive script.
-- Cloud & Serverless: strong believer in other people's computers — Lambdas should live fast and die cheap.
+- AI agents & automation: I love turning repetitive, messy workflows into systems that just work.
+- GenAI & explainable AI: Building AI that doesn't just give answers, but can show where they came from and why they make sense.
+- Reliable AI: I'm as interested in what happens when things break as I am in making them work.
+- Product + engineering: I enjoy taking an idea from identifying the problem to building something people can actually use.
+- Experimenting & building: I like exploring new technologies, questioning the obvious approach, and figuring out what works in practice.&#x20;
 
 ### Education & Certifications
 
@@ -83,10 +86,6 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/pavithra-k-r-9b2a84314/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/pavithra2870" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
 
