@@ -1,6 +1,6 @@
 # hello there.
-## AI Engineer | Product Builder | GTM & Automations
-### Final-year Engineering Student (AI/ML) @ VIT Chennai | Open to SWE, AI Engineering & PM internships
+## AI/ML | Product | Analytics & Automations
+### Final-year Engineering Student (AI/ML) @ VIT Chennai | Open to SWE, AI, Analyst & PM internships
 
 ### Stuff I can work with:
 
@@ -13,35 +13,38 @@
 ### Tech Stack & Skills
 
 * **Languages:** Python, JavaScript, Java, C++, R
-* **LLMs & Agentic AI:** Ollama (Llama 3), Google Gemini, Groq, Prompt Engineering, RAG, Multi-Agent Systems, LangChain, Google Genkit, Amazon Bedrock & Lex, RLHF alignment
-* **RAG & Vector Search:** FAISS, BM25 (hybrid retrieval), sentence-transformers
-* **ML / Deep Learning:** PyTorch, scikit-learn, XGBoost, LSTM + Attention, spaCy, FLAIR, DeBERTa, Gensim
+* **LLMs & Agentic AI:** Ollama (Llama 3), Google Gemini, Groq, Prompt Engineering, RAG, Multi-Agent Systems, LangChain, Google Genkit, Amazon Bedrock & Lex, RLHF alignment, MCP
+* **RAG & Vector Search:** FAISS, BM25 (hybrid retrieval), reciprocal rank fusion, cross-encoder reranking, sentence-transformers
+* **ML / Deep Learning:** PyTorch, scikit-learn, XGBoost, LightGBM, LSTM + Attention, Hugging Face Transformers, spaCy, FLAIR, DeBERTa
+* **Reinforcement Learning:** DQN, PPO, offline CQL, SARSA, Gymnasium, action masking
+* **Evaluation & Statistics:** baselines and ablations, held-out splits, bootstrap confidence intervals, permutation tests, pandas, SciPy, statsmodels
 * **Explainable AI:** SHAP, counterfactual XAI, bias/fairness auditing
 * **Voice & Speech:** AssemblyAI
 * **Web Development:** React, Node.js, Express, FastAPI, Vite, Tailwind CSS, Framer Motion, Leaflet.js
-* **Databases:** MongoDB, Firebase Firestore, DynamoDB, FAISS, SQLite, Redis, PostgreSQL (Supabase)
+* **Databases:** MongoDB, Firebase Firestore, DynamoDB, FAISS, SQLite, DuckDB, Redis, PostgreSQL (Supabase)
 * **Cloud & DevOps:** AWS (Lambda, API Gateway, Cognito, DynamoDB, Bedrock, S3, CloudWatch), Firebase, Docker, Hugging Face Spaces, Render, Vercel
-* **Testing & Tools:** Git, Selenium, pytest, Postman
+* **Testing & Tools:** Git, Selenium, Playwright, pytest, Postman
 
 ### Projects
 
-* **[NEXUS — Consultancy AI](https://github.com/pavithra2870/Consultancy-AI)**: a local-first AI market-intelligence platform — **8 research agents + 4 enterprise modules** (market research, M&A due diligence, live risk monitoring) fusing classical NLP, deep learning, and a local LLM. Zero cloud dependency, zero data leaving the machine.
+* **[NEXUS — Document Intelligence](https://github.com/pavithra2870/Consultancy-AI)**: a local-first platform that answers from your documents with numbered citations and refuses when the evidence isn't there. Hybrid retrieval, a GDPR/CCPA checker and a due-diligence analyser that check every claim against its source.
 * **[ComplianceAI](https://github.com/pavithra2870/Call-Center-Compliance)**: call-center compliance monitoring that actually understands Tanglish and Hinglish. Every AI decision comes with a receipt — a direct transcript quote, not just a score.
-* **[GEO: Algorithmic Moat](https://pavithra2870.github.io/GEO-Bias-Analyzer/)**: quantifying whether LLMs systematically favor incumbent brands over startups, using SHAP and counterfactual XAI to prove it mathematically.
+* **[GEO Bias Analyzer](https://pavithra2870.github.io/GEO-Bias-Analyzer/)**: I asked 14 AI models which brands to buy, 15,000 times. A few brands win, the model matters more than the wording, and about 1 mention in 10 points to a product that no longer exists.
+* **[OAuth Guides](https://oauth-guides-o66y.onrender.com/)**: an agent that researches any API provider and tells you how hard it is to get an OAuth app approved, how long it takes, and who does what. The model writes; code verifies every quote.
+* **[Agent-Orchestra-RL](https://pavithra2870.github.io/Agent-Orchestra-RL/)**: a reinforcement-learning support agent that picks the next tool to call. Safety rules live in code: 98.5% on 1,410 held-out scenarios, zero rule violations, and I report that a hand-written playbook still beat it.
 * **[Meridian — Risk Intelligence Platform](https://github.com/pavithra2870/VIT-Pavithra-SP-Hackathon)**: an offline-first AI risk intelligence platform that transforms 50K+ financial documents into explainable risk signals, constrained portfolio rebalancing, and multi-asset stress tests across 4 synthetic portfolios - powered by NLP, deterministic risk models, and an optional local LLM copilot.
-* **[Fact Knowledge Layer](https://github.com/pavithra2870/Fact-Knowledge-Layer)**: evidence-first document intelligence that extracts structured facts from PDFs with verifiable citations, then uses hybrid FAISS + BM25 retrieval, cross-encoder reranking, and contextual reasoning to distinguish genuine contradictions from differences caused by time period, geography, units, or estimates. Built with React + FastAPI, multi-provider LLM routing, OCR, and an interactive D3 knowledge graph.
+* **[Fact Knowledge Layer](https://github.com/pavithra2870/Fact-Knowledge-Layer)**: evidence-first document intelligence that extracts structured facts from PDFs with verifiable citations, then uses hybrid FAISS + BM25 retrieval, cross-encoder reranking, and contextual reasoning to distinguish genuine contradictions from differences caused by time period, geography, units, or estimates. Built with React + FastAPI, multi-provider LLM routing, OCR, and an interactive knowledge graph.
 * **[CivicBot](https://github.com/pavithra2870/CivicBot)**: report a pothole over WhatsApp, get it triaged by an LLM before a human even looks at it. 100% serverless AWS.
 * **[NurtureAI](https://github.com/pavithra2870/NurtureAI)**: a bilingual AI parenting assistant where safety doesn't trust the LLM — a deterministic rule engine can bypass or override the model entirely on emergency queries. RAG-grounded advice, voice input, English + Arabic.
+* **[AirMind AI](https://github.com/pavithra2870/AirMind-AI)**: urban air-quality OS with a 16-model AQI forecaster that beats a persistence baseline by ~30% at +1h and +6h, plus source attribution, intervention planning and RAG copilots. It says where it only matches the baseline.
+* **[Consumer Intelligence Platform](https://github.com/pavithra2870/Consumer-Segmentation)**: segmentation, churn/LTV prediction, SHAP and bias auditing, benchmarked on four datasets. It ties LightGBM rather than beating it, and says so. An LLM writes the personas so nobody has to stare at cluster IDs.
 * **[OneStop 25](https://onestop-25.onrender.com/)**: year-end reflection app for 2025→2026 — aura calculator, IN/OUT lists, AI-personalized manifestations. Brainrot-coded on purpose, so I can actually track my 2026 goals without opening a spreadsheet.
 * **[Adv-Audit](https://github.com/pavithra2870/Adv-Audit)** — neuro-symbolic explainable AI for real-time ad bidding: SHAP attribution, bias detection, and human-in-the-loop rule correction.
-* **[AirMind AI](https://github.com/pavithra2870/AirMind-AI)**: urban air intelligence operating system — transforms cities from reactive monitoring to proactive intervention with XGBoost forecasting, pollution attribution, intervention planning, and dual AI copilots for citizens and commissioners. Graceful degradation ensures it never breaks during demos.
-* **[Product Intelligence Engine](https://market-research-agent-f5ny.onrender.com/)**: 4 microservices, 4 parallel Gemini agents, and a financial risk model that turns Reddit complaints into a boardroom-ready PDF — all on free-tier infra because I refuse to pay for compute I don't need yet.
-* **[Consumer Intelligence Platform](https://github.com/pavithra2870/Consumer-Segmentation)**: segmentation, churn/LTV prediction, SHAP explainability, and bias auditing in one pipeline — with an LLM writing the customer personas so nobody has to stare at cluster IDs.
 * **[Network QoE Prediction System](https://github.com/pavithra2870/QoE)**: predicts telecom churn before the customer even complains. LSTM + XGBoost dual-model, SHAP tells you exactly which KPI is to blame.
 * **[FocusWin](https://focuswin-frontend.onrender.com/)**: a to-do app that got out of hand — 10-level priority scale, honest analytics (no vanity heatmaps), and a real-time team Kanban spin-off called Spaces.
 * **[SafeSpace](https://github.com/pavithra2870/SafeSpace---Journal)**: AI journaling with an actual feedback loop — Dr. Luna (Groq/Llama 3) reads every entry and returns sentiment, mood, and a nudge. Streaks, heatmaps, gamification, the whole loop.
 * **[HELM-Rank](https://github.com/pavithra2870/HELM-Rank)** — an exam-grading pipeline combining OCR, knowledge-grounded RAG, Elo ranking, and RLHF so teachers can actually align the grader instead of trusting it blindly.
-* **[PulseOps](https://github.com/pavithra2870/PulseOps)**: AI-assisted cluster observability platform — complete detect → alert → incident → diagnose loop with 32 REST endpoints, WebSocket real-time updates, Prometheus metrics, and RAG-grounded AI diagnosis. Zero-credential fallbacks for immediate demo capability.
+* **[PulseOps](https://github.com/pavithra2870/PulseOps)**: AI-assisted cluster observability platform — complete detect → alert → incident → diagnose loop with WebSocket real-time updates, Prometheus metrics, and RAG-grounded AI diagnosis. Zero-credential fallbacks for immediate demo capability.
 
 **View my Product Case Studies [here](https://pavithra-portfolio-jpon.onrender.com/#case-studies)**
 
